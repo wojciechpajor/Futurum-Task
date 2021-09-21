@@ -1,0 +1,8 @@
+.navStyle {
+    font-weight: bolder;
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: left;
+    margin: auto;
+    width: 100%;
+}

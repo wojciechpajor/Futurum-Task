@@ -1,0 +1,21 @@
+.campaignStyle {
+  list-style: none;
+  margin: 5px;
+  padding: 10%;
+  font-weight: bold;
+  background-color: lightseagreen;
+  border-radius: 10px;
+  border: solid;
+  display: grid;
+  text-align: left;
+}
+.campaignsStyle {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.liStyle {
+  margin: 5px;
+  width: 300px;
+
+}

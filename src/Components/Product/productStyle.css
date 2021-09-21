@@ -1,0 +1,9 @@
+.productStyle {
+    font-weight: bolder;
+    background-color: lightcoral;
+    border: solid;
+    display: flex;
+
+    justify-content: space-between;
+    text-align: left;
+}
